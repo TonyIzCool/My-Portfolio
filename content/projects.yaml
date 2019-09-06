@@ -1,23 +1,7 @@
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
+- title: SearchBar
+  subtitle: Bartender cheatsheet made with create-react-app. Search cocktails by name, pick one from the index or click "Surprise Me" to see how it's made.
+  link: https://github.com/TonyIzCool/SearchBar
 
-- title: Basic Music
-  subtitle: Basic Music Player That lets you to play music
-  link: https://github.com/Mr404Found/Basic-Music-Player
-
-- title: Age Calculator
-  subtitle: Get Your Age
-  link: https://github.com/Mr404Found/AgeCalculator
-
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
-
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
-
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
+- title: Votelity
+  subtitle: Voting assistsnt made with React-On-Rails. Compare any 2 politicians and see how they voted on bills pertaining to issues you care about. Still a work in progress.
+  link: https://github.com/TonyIzCool/Votelity
