@@ -27,13 +27,10 @@ export default function info() {
       </div>
       <div className="h1 code mt-2 mb-3">{"</div>"}</div>
       <div className="h1 mt-5">
-        <a className="mr-5 icon" href="https://github.com/TonyIzCool">
+        <a className="mr-5 icon" href="https://github.com/TonyIzCool" target="_blank" rel="noopener noreferrer">
           <Github />
         </a>
-        <a
-          className="mr-5 icon"
-          href="https://www.linkedin.com/in/anthony-gil/"
-        >
+        <a className="mr-5 icon" href="https://www.linkedin.com/in/anthony-gil/" target="_blank" rel="noopener noreferrer">
           <FaLinkedin />
         </a>
         <a className="mr-5 icon" href="mailto://agil013@gmail.com">
