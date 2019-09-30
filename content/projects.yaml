@@ -1,13 +1,13 @@
 - title: SearchBar
   subtitle: A bartender cheatsheet made with React. Search cocktails by name, pick one from the index or click "Surprise Me" to see cocktail recipes.
-              - The Cocktail DB was used to retrieve the data which includes the list of cocktails, and recipes for each cocktail.
-              - Axios and Express were used to handle API calls.
-              - Each page in Searchbar is linked together using React Router, so once the app is loaded initially it doesn't need to load again. Everything renders on the fly.
+              The Cocktail DB was used to retrieve the data which includes the list of cocktails, and recipes for each cocktail.
+              Axios and Express were used to handle API calls.
+              Each page in Searchbar is linked together using React Router, so once the app is loaded initially it doesn't need to load again. Everything renders on the fly.
   link: https://github.com/TonyIzCool/SearchBar
 
 - title: Votelity
   subtitle: A voting assistant made with Ruby On Rails. Compare any 2 politicians and see how they voted on bills pertaining to issues you care about.
-              - The VoteSmart API was used to retrieve the data, which includes the list of politicians, the list of bills, and each politician's vote on each bill
-              - The data from the API was stored using postgreSQL.
-              - Ruby on Rails handled database/api calls and the React-On-Rails gem was used to render the data on the front end.
+              The VoteSmart API was used to retrieve the data, which includes the list of politicians, the list of bills, and each politician's vote on each bill.
+              The data from the API was stored using postgreSQL.
+              Ruby on Rails handled database/api calls and the React-On-Rails gem was used to render the data on the front end.
   link: https://github.com/TonyIzCool/Votelity
